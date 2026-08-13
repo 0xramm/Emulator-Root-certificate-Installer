@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller build output
+build/
+dist/
+*.spec
+
+# The certificate submitted through the app at runtime — not project source
+c8750f0d.0
+
+# Editor/OS cruft
+.vscode/
+.idea/
+Thumbs.db
